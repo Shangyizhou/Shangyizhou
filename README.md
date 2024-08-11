@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 # Hello I'm yizhou
-2024届毕业生，熟悉 Linux C++技术栈，Android 技术栈，了解 Go 语言编程。
 <div align="center">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Shangyizhou" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shangyizhou&layout=compact&langs_count=8" />
